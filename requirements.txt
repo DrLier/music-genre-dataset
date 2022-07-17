@@ -32,6 +32,7 @@ numpy
 oauthlib
 opt-einsum
 packaging
+playsound
 pip
 pooch
 protobuf
